@@ -1,0 +1,7 @@
+{
+  "name": "ElectroPDF",
+  "description": "Repositório premium de manuais de eletrônica com acesso por assinatura e busca por IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
